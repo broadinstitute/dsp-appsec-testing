@@ -297,6 +297,7 @@
         "signalfd",
         "signalfd4",
         "sigreturn",
+        "socket",
         "socketcall",
         "socketpair",
         "splice",
